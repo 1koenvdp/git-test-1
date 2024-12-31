@@ -1,0 +1,1 @@
+(coffee ascii drawing)
